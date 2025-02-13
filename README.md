@@ -16,4 +16,4 @@ com as resenhas escrita por ele.
 
 ### não funcionais
 1. O Estilo do aplicativo será baseado em um tema escuro.
-2. A resenha escrita pelo usuário não poderá ultrapassar 1024 caracteres. 
+2. A resenha escrita pelo usuário não poderá ultrapassar 1024 caracteres. aaaaaaaaaaaa
